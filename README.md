@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
 
 [About](about.md)
+[Blog Posts](_posts/2017-05-19-test-post.md)
 
 You can use the [editor on GitHub](https://github.com/mattucsd/mattucsd.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
