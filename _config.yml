@@ -1,1 +1,9 @@
+# basic options
+title: Matt's Website
+author: Matt Nakpawan
+email: your-email@domain.com
+description: First WEbsite
+twitter_username: jekyllrb
+github_username:  jekyll
+
 theme: jekyll-theme-architect
